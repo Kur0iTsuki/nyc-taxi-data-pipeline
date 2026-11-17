@@ -1,0 +1,5 @@
+data/raw/
+warehouse/
+reports/
+__pycache__/
+tests/__pycache__/
