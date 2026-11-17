@@ -1,5 +1,6 @@
 data/raw/
 warehouse/
 reports/
+warehouse-spark/
 __pycache__/
 tests/__pycache__/
